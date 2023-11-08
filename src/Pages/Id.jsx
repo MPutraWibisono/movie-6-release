@@ -8,7 +8,7 @@ function Id() {
             find popular films
           </h1>
           <p className="text-white text-xl md:text-2xl text-center font-semibold mt-8 mb-7">
-            Login now, to search for films
+            let's go beyond
           </p>
           <div className="text-center">
             <a
